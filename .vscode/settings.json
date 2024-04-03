@@ -1,0 +1,22 @@
+{
+    "workbench.colorCustomizations": {
+        "[Tokyo Night Storm]": {
+            "editor.background": "#181926",
+            "editor.lineHighlightBackground": "#292d49"
+        },
+        "titleBar.activeBackground": "#e27c4d",
+        "titleBar.activeForeground": "#000000",
+        "titleBar.inactiveBackground": "#e27c4d",
+        "titleBar.inactiveForeground": "#000000",
+        "titleBar.border": "#e27c4d",
+        "activityBar.background": "#e27c4d",
+        "activityBar.foreground": "#000000",
+        "statusBar.background": "#e27c4d",
+        "statusBar.foreground": "#000000",
+        "statusBar.debuggingBackground": "#e27c4d",
+        "statusBar.debuggingForeground": "#000000",
+        "tab.activeBorder": "#e27c4d",
+        "iLoveWorkSpaceColors": true,
+        "iLoveWorkSpaceRandom": false
+    }
+}
