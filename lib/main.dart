@@ -30,7 +30,8 @@ class _WebViewAppState extends State<WebViewApp> {
 
     params = const PlatformWebViewControllerCreationParams();
 
-    controller = WebViewController.fromPlatformCreationParams(params,
+    controller = WebViewController
+      .fromPlatformCreationParams(params,
         onPermissionRequest: (WebViewPermissionRequest request) {
       request.grant();
     })
